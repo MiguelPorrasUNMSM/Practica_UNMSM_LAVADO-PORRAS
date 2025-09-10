@@ -5,8 +5,8 @@ Este repositorio contiene la resolución de ejercicios propuestos en la práctic
 ## 📌 Datos generales
 - **Profesor:** Gelber Christian Uscuchagua Flores  
 - **Alumnos:**  
-  - Lavado Torres, Gianmarco Gabriel  
-  - Porras Chavez, Miguel Ángel  
+  - Lavado Torres, Gianmarco Gabriel  22200025
+  - Porras Chavez, Miguel Ángel  22200036
 
 ## 📝 Enunciados de la práctica
 
